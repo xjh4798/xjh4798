@@ -35,14 +35,7 @@ I love working on real-world robotics projects, solving challenges, and contribu
 - Top performer at **International Rover Challenge**  
 - Finalist at **Mission Chandra (ISRO)**  
 - Gained advanced robotics insights during my research internship at **IIT Madras**.
-
----
-
-## 📫 Let's Connect!
-- **Email:** [devamwork01@gmail.com](mailto:devamwork01@gmail.com)  
-- **LinkedIn:** [Devam Shah](https://www.linkedin.com/in/devam-shah-0a8918227/)  
-- **GitHub:** [Devam-032](https://github.com/Devam-032)
-
+- 
 ---
 
 ## 🔭 What’s Next?
